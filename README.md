@@ -57,7 +57,7 @@ def mc_control(env, gamma=1.0,
 ### Name: R Guruprasad
 ### Register Number: 212222240033
 
-![image](https://github.com/user-attachments/assets/f0a5c0a3-a51e-4f1a-afc5-f42350e25b57)
+![image](https://github.com/user-attachments/assets/9ec962f6-f6bf-4f52-9f34-db913df4aae0)
 
 ## RESULT:
 
